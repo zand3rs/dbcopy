@@ -3,8 +3,9 @@
   "description": "WIP: Copy data between file and db.",
   "version": "0.0.1",
   "keywords": [
-    "db",
+    "dbcopy",
     "database",
+    "db",
     "json",
     "copy",
     "import",
